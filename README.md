@@ -21,5 +21,4 @@ Java Swing application to calculate:
 3. Run `FileSizeCalculatorPDF.java`
 
 ## Screenshots
-![UI](screenshots/ui.png)
-![Output](screenshots/output.png)
+
